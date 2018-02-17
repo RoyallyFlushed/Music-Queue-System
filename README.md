@@ -19,7 +19,7 @@ This was made by [RoyallyFlushed](https://www.roblox.com/users/29942409/profile)
 
 --]
 
-17/2/18 - (1.55.20):
+*17/2/18 - (1.55.20):*
 
   - Creation of stop feature
   - Bug that caused skip command to break script after no songs were playing has been addressed
@@ -27,7 +27,7 @@ This was made by [RoyallyFlushed](https://www.roblox.com/users/29942409/profile)
 
 --]
 
-16/2/18 - (1.55.00):
+*16/2/18 - (1.55.00):*
 
   - Creation of basic system
   - Creation of repeat/normalise/skip features
